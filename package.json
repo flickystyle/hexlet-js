@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flickystyle/hexlet-js.git"
+  },
+  "author": "flickystyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flickystyle/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/flickystyle/hexlet-js#readme"
+}
